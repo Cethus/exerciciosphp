@@ -1,0 +1,12 @@
+body{
+    background-image: url('/img/1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.menu{
+    background-color: white;
+    border-radius: 10px;
+}
+h2{
+    color: white;
+}
